@@ -1,0 +1,2 @@
+# Gitclass
+testing directory
